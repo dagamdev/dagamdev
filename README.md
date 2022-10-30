@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy David</h1>
 <h3 align="center">Un desarrollador web full stack</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2davidgarcia4" alt="2davidgarcia4" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2davidgarcia4&label=Profile%20views&color=0e75b6&style=flat" alt="2davidgarcia4" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
